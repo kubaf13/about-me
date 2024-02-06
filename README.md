@@ -46,6 +46,8 @@ const styling: Technologies = [ "styled-components", "emotion", "MUI", "NextUI" 
 
 const api: Technologies = [ "GraphQL", "REST", "Apollo" ];
 
+const web: Technologies = [ "SEO", "A11y", "Performance" ];
+
 const backend: Technologies = [ "node.js" ];
 
 const cms: Technologies = [ "Contentful", "Strapi", "Sanity", "Cockpit" ];
@@ -58,9 +60,11 @@ First of all, I encounter problems every day at work. Unusual solutions teach yo
 Additionally, I expand my knowledge on the platform:
 
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://udemy.com)
+
+also [Webdev Insider](https://www.webdevinsider.pl/zoptymalizowany-frontend)
 
 Moreover, as a UI enthusiast, I take courses on [udemy platform](https://udemy.com) and through reels on Instagram of people such as [Nolan Perkins](https://www.instagram.com/_radnolan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==), [Zander Whitehurst](https://www.instagram.com/zanderwhitehurst?igsh=ODU5YTR3dWxwOGhy) or [Daniel Walter Scott](https://www.instagram.com/bringyourownlaptop?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-
 
 # take care 🖖🏼
 
