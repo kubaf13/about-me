@@ -43,7 +43,7 @@ const web: Technologies = [ "SEO", "A11y", "Performance" ];
 
 const backend: Technologies = [ "node.js" ];
 
-const cms: Technologies = [ "Contentful", "Strapi", "Sanity", "Cockpit" ];
+const cms: Technologies = [ "Contentful", "Strapi", "Cockpit", "Sanity" ];
 
 const usefulTools: Technologies = [ "EsLint", "Prettier", "Storybook", "Husky", "Insomnia" ];
 ```
